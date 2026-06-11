@@ -1,4 +1,4 @@
-# Green Charge — Monitoramento Inteligente de Eletropostos (GoodWe)
+# Green Charge  Monitoramento Inteligente de Eletropostos (GoodWe)
 
 A ideia desse projeto é resolver o gargalo dos eletropostos urbanos: a sobrecarga da rede elétrica nos horários de pico e o desperdício de energia gerada. Integrando a lógica dos inversores da GoodWe com bancos de baterias, o sistema gerencia as fontes de energia de forma autônoma.
 
