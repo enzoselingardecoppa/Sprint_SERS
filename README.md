@@ -19,7 +19,7 @@ Com base nisso, o algoritmo decide de onde puxar a energia em milissegundos, pri
 
 O código foi estruturado em cima de dois conceitos chave:
 
-* **Desvio de Pico (Peak Shaving):** Entre 18h e 21h (pico da rede urbana), o sistema corta o consumo da rede da concessionária e passa a alimentar os veículos usando a energia armazenada nas baterias durante o dia. Isso evita sobrecarga na malha pública e reduz custos tarifários.
+* **Desvio de Pico:** Entre 18h e 21h (pico da rede urbana), o sistema corta o consumo da rede da concessionária e passa a alimentar os veículos usando a energia armazenada nas baterias durante o dia. Isso evita sobrecarga na malha pública e reduz custos tarifários.
 * **Aproveitamento Total:** Se há geração solar mas nenhum carro está conectado, o excedente vai 100% para carregar as baterias locais, zerando o desperdício.
 
 Gustavo de Souza Abreu — RM 574080
